@@ -162,7 +162,7 @@ Pour spécifier que votre type générique possède un ordre total vous pouvez u
 
 . Plutôt que de retourner un booléen pour vérifier que les opérations `insert` et `delete` se sont bien déroulées il est aussi possible de retourner une erreur à l'aide d'un objet de type `Result<>`. Cela vous permettra d'explorer un autre mécanisme de gestion d'erreurs dans Rust. 
 
-==== Crédits
+==== Références
 
 * Illustation https://fr.wikipedia.org/wiki/Arbre_binaire_de_recherche#/media/Fichier:Binary_search_tree.svg[d’arbre binaire] dans le domaine publique.
 
