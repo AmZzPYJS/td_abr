@@ -12,9 +12,9 @@ v2022-2023
 Pour commencer nous allons nous familiariser avec la notion de propriété (_Ownership_ en anglais) et le système de vérification d'emprunts
 mémoire de Rust (_Borrow Checker_ en anglais). Pour cela nous allons faire les exercices suivants:
 
-    - https://practice.rs/ownership/ownership.html
+    - https://practice.course.rs/ownership/ownership.html
 
-    - https://practice.rs/ownership/borrowing.html
+    - hhttps://practice.course.rs/ownership/borrowing.html
 
 Vous pouvez répondre aux exercices directement dans votre navigateur.
 
