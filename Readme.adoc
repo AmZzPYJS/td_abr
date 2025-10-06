@@ -14,7 +14,7 @@ mémoire de Rust (_Borrow Checker_ en anglais). Pour cela nous allons faire les 
 
     - https://practice.course.rs/ownership/ownership.html
 
-    - hhttps://practice.course.rs/ownership/borrowing.html
+    - https://practice.course.rs/ownership/borrowing.html
 
 Vous pouvez répondre aux exercices directement dans votre navigateur.
 
