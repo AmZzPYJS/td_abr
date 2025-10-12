@@ -31,6 +31,7 @@ impl Tree {
     /// Inserts `value` into the tree.
     /// Returns `false` iff the `value` was already contained in the tree.
     pub fn insert(&mut self, value: i32) -> bool {
+        if Tree
         panic!("Not implemented")
     }
 
